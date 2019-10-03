@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZzeBlurredLabel"
-  s.version      = "1.0.0"
+  s.version      = "1.1.0"
   s.summary      = "Blurry label component."
 
   # This description is used to generate tags and improve search results.

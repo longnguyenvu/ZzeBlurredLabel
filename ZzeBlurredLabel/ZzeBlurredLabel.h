@@ -13,4 +13,7 @@
 
 @property (nonatomic, readwrite) IBInspectable CGFloat blurRadius;
 
+- (void)blurryText;
+- (UIImage *)getBlurryImageText;
+
 @end
